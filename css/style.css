@@ -1,0 +1,38 @@
+.hidden{
+    display: none;
+}
+
+#clock{
+    display:inline-block;
+    background-color: silver;
+    border-radius: 10px;
+    color:white;
+    margin-top:0px;
+    padding: 5px;
+}
+
+#greeting{
+    font-size: 35px;
+    text-align: center;
+    margin-top:100px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+
+form input{
+    width:250px;
+    height:30px;
+    border-radius: 10px;
+}
+
+#todo-list{
+    text-align: center;
+}
+
+#weather{
+    font-size:20px;
+    text-align: center;
+}
